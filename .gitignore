@@ -1,0 +1,10 @@
+/app/python/__pycache__
+/app/tests/__pycache__
+
+/db
+
+/images
+
+# Ignore macOS sys files
+*.DS_Store
+*/.DS_Store
